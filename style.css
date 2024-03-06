@@ -64,7 +64,7 @@ h2{
     box-shadow: 0 0 10px #36e501 inset 0 0 10px #36e501;
 }
 .input-box input::placeholder{
-    color: rgba(255,255,255, .3);
+    color:2px solid #36e501;
 }
 .input-box i{
     position: absolute;
@@ -102,7 +102,7 @@ h2{
     border: none;
     outline: none;
     border-radius: 40px;
-    box-shadow: 0 0 10px rgba(0,0,0,.1 green, blue, alpha);
+    box-shadow: 0 0 10px rgba(205, 29, 29, 0.1);
     cursor: pointer;
     font-size: 16px;
     color: #333;
